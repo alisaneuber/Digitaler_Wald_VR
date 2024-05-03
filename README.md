@@ -5,30 +5,30 @@ Die Idee unseres Projektes ist es, dem Anwender einen virtuellen Wald zur Verfü
 
 Unser Projekt ist optimiert für das Meta Quest 2 Headset und im build Ordner kann die finale .apk gefunden werden.
 
-## Das Team 
+Unser Projekt ist optimiert für das Meta Quest 2 Headset und im build Ordner kann die finale .apk gefunden werden.
 
+## Das Team 
+Alisa Neuber        VR-Funktionalität, Gamelogik & Skelettpuzzle
+Lena Beckmann       Tieranimationen & Rigging, Ai-Navigation
+Victoria Gehrt      UI-Elemente, Zielgruppenrecherche, Soundrätsel
 
 ## Screenshots
+
 ### Figuren
 
-<img src="images/deer.jpg" width="100" />
-<img src="images/Screenshot__926_.png" width="400" />
-
--	Im weiteren Development wollen wir dann noch weitere Waldtiere wie z.B. Wildschwein, Fuchs, Vogel, etc. einbinden -> [Link](https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-forest-animals-104338)
-
-<img src="images/animals.jpg" width="400" />
+<img src="images/deer.jpg" width="400" />
+<img src="images/fox.jpg" width="400" />
+<img src="images/wolf.jpg" width="400" />
 
 ### Levels, Umgebung
 Unsere Umgebung ist eine Lichtung in einem kleinen Waldstück mit einem Teich. Dort werden sich die Tiere bewegen und man kann mit ihnen interagieren. Unsere Assets für die Flora kommen aus dem ToonTastic Asset-Pack. Da unsere Spieler sich nur begrenzt bewegen können und es keine Teleportation gibt, halten wir den Waldausschnitt eher klein und können uns auf die Details konzentrieren.
 
-[Link](https://assetstore.unity.com/packages/3d/vegetation/toontastic-vegetation-plants-trees-260738)
+<img src="images/area.jpg" width="400" />
 
-<img src="images/trees.jpg" width="400" />
+Für jedes Tier gibt es drei Rätsel die man Lösen muss: Ein Puzzle bei dem man das Tierskelett zusammenfügen muss, ein Soundrätsel bei dem man herausfinden muss welches Geräusch das gerade akttive Tier macht, und ein Nahrungsrätsel bei dem man das richtige Futter in einen Korb legen muss
 
-Wir haben auch schon mal einen Paper Prototyp des Aufbaus unseres Waldes erstellt und werden uns in der Umsetzung an dieser Vorlage orientieren.
-
-<img src="images/Wald_Plan.png" width="400" />
-
+<img src="images/puzzle1.jpg" width="400" />
+<img src="images/puzzle2.jpg" width="400" />
 
 ### Barrierefreiheit
 Um unsere Anwendung für mehr Leute benutzbar zu machen, haben wir uns für einen stationären Spieler entschieden. So muss man sich nicht bewegen oder aufstehen um mit der Umwelt interagieren zu können. Wir achten außerdem darauf, dass die Framerate nicht unter 70 FPS liegt um Motion Sickness zu vermeiden und dass die Schrift der UI groß genug ist. Am Ende des Projektes haben wir uns auch offengelassen, weitere Accessability Features einzubauen. Eine paar Ideen dafür sind zum Beispiel eine Vertonung der Infoboxen und des Tutorial-Screens, um auch sehbehinderten Menschen die Informationen zu übergeben. Außerdem könnte ein High-Contrast-Mode in der Form eines Farbfilters über den Tieren implementiert werden, um das Suchen der Tiere im Wald einfacher zu machen. Dabei können auch richtungsbezogene Captions für die Tiergeräusche helfen. Für barrierefreie Controller könnte man im Nachhinein Button-Remapping durch Spieleplattformen wie Steam oder die Adaptive Controller von Xbox ermöglichen.
