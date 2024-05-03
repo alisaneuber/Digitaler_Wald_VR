@@ -5,11 +5,11 @@ Die Idee unseres Projektes ist es, dem Anwender einen virtuellen Wald zur Verfü
 
 Unser Projekt ist optimiert für das Meta Quest 2 Headset und im build Ordner kann die finale .apk gefunden werden.
 
-Unser Projekt ist optimiert für das Meta Quest 2 Headset und im build Ordner kann die finale .apk gefunden werden.
-
 ## Das Team 
 Alisa Neuber        VR-Funktionalität, Gamelogik & Skelettpuzzle
+
 Lena Beckmann       Tieranimationen & Rigging, Ai-Navigation
+
 Victoria Gehrt      UI-Elemente, Zielgruppenrecherche, Soundrätsel
 
 ## Screenshots
