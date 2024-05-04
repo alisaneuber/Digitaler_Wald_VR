@@ -10,7 +10,7 @@ Alisa Neuber: VR-Funktionalität, Gamelogik & Skelettpuzzle
 
 Lena Beckmann: Tieranimationen & Rigging, Ai-Navigation
 
-Victoria Gehrt: UI-Elemente, Zielgruppenrecherche, Soundrätsel
+Kommilitonin: UI-Elemente, Zielgruppenrecherche, Soundrätsel
 
 ## Screenshots
 
