@@ -1,0 +1,45 @@
+{
+    "name": "Default Controls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "e924ceca-e033-4870-b662-b5b4602424a3",
+            "actions": [
+                {
+                    "name": "open",
+                    "type": "Button",
+                    "id": "15d91203-6719-428c-bc6d-c5a7790f5adb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7614e0f0-56ce-4942-b2f8-7e01df01c898",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "open",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2404b972-1e06-4b3e-a2a8-60eb1adfcfec",
+                    "path": "<XRController>{LeftHand}/{PrimaryTrigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "open",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
